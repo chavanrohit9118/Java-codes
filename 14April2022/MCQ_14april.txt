@@ -7,4 +7,4 @@ MCQ Answers:
    reason: because of inheritance
 
 3] d)Compile time error
-   reason: child class consist if two parent classes that is why compile time error occurs.
+   reason: child class consist of two parent classes that is why compile time error occurs.
