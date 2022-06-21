@@ -1,0 +1,9 @@
+1. Write a code to find total no of vowel in a string.
+
+															
+2.  Write a code to implement covid vaccination booster doze system. 
+For male if the age is more than 60 and for female if the age is more than 
+fifty and nationality must be Indian then eligible for doze. Else throw exception 
+with proper message.															
+															
+3. Remove all the duplicate element from an array.															
