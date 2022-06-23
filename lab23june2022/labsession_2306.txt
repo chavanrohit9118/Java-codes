@@ -1,0 +1,9 @@
+Create a student class having properties like roll name subject total_marks. 
+Sort the student objects according to their name by alphabetical order and total_marks.
+
+
+Create an application by which user can give two output as length and breadth. 
+Based on the user input calculate the area of that rectangular area.
+Condition 1 : Length should be within a specific range ( 10 to 50 ) 
+Condition 2 : Bredth should be within a specific range ( 05 to 20 )
+Condition 3 : Use parameterized constructor as well as setter method to initialize
